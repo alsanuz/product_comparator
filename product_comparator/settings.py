@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'product_comparator',
         'USER': 'postgres',
-        'PASSWORD': '',
+        'PASSWORD': 'test',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
